@@ -39,4 +39,8 @@ I’m always learning, building, and improving 🚀
 
 
 ## 📫 Connect with me  
-LinkedIn: https://www.linkedin.com/in/amit-kumar-878051165/
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/amit-kumar-878051165/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkumar1075a@gmail.com)
+
