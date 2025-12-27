@@ -38,6 +38,18 @@ I’m always learning, building, and improving 🚀
 ![Dashboard Reporting](https://img.shields.io/badge/Dashboard%20Reporting-0277BD?style=for-the-badge)
 
 
+## 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitkumar1075&show_icons=true&theme=radical)](https://github.com/amitkumar1075)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar1075&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Activity Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amitkumar1075&theme=dracula)](https://github.com/amitkumar1075)
+
+
+
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-878051165/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=amitkumar1075a@gmail.com)
