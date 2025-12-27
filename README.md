@@ -37,6 +37,7 @@ I’m always learning, building, and improving 🚀
 ![MIS Reporting](https://img.shields.io/badge/MIS%20Reporting-455A64?style=for-the-badge)
 ![Dashboard Reporting](https://img.shields.io/badge/Dashboard%20Reporting-0277BD?style=for-the-badge)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=amitkumar1075&show_icons=true)
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitkumar1075&theme=github_dark)
 
